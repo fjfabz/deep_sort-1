@@ -1,11 +1,12 @@
 # Deep SORT
+	原版的Deep_Sort跟踪算法，加载图像序列，POI检测器
 
 ## Introduction
 	python deep_sort_app.py   #### 注解：代码路径已经写死
 
 	需要文件：
-		MOT16
-		resources
+		图像序列：MOT16
+		检测器：resources
 
 ## Citing DeepSORT
 
